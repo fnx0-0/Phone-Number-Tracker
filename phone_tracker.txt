@@ -1,0 +1,5 @@
+REQUIRED libs
+opencage
+phonenumbers
+geopy
+folium
